@@ -49,9 +49,6 @@ This is the 5th homework for the coding bootcamp
 ### To Execute File:
 > Open in browser
 
-## Running the code
-
-The codes are linked with the index.html which will render the js and generate the password
 
 ## Demo
 ![Day-Planner Demo](assets/demo/Day-Planner.gif)
