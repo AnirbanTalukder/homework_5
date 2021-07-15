@@ -51,7 +51,7 @@ This is the 5th homework for the coding bootcamp
 
 
 ## Demo
-![Day-Planner Demo](assets/demo/Day-Planner.gif)
+![Day-Planner Demo](Day-Planner.gif)
 
 ## Links to deployed page
 * [Deployed page](https://anirbantalukder.github.io/homework_5/)
